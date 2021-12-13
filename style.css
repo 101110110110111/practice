@@ -1,4 +1,9 @@
 /* stylesheet for constitution.html */
 body {
+  font-family: "Gerogia", "Times"; serif;
   color: red;
+}
+
+#footer p{
+  word-spacing: 14px; rgb(#666)
 }
